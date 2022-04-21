@@ -5,14 +5,17 @@ function suma (a,b){
 }
 
 
+function resta(a,b){ //damian restas
+}
 function resta(a,b){
+
     return a - b
 }
 
 
 function restaSara(a,b){
      return a - b
-
+}
 
 //potencia de tomi
 function potencia(a){
@@ -32,4 +35,5 @@ function suma(a, b) {
 
 function luluuu(a, b, c) {
   return a + b + c;
-
+}
+//ultimo arreglo
