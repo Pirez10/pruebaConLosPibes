@@ -4,13 +4,19 @@ function suma (a,b){
 }
 
 
+function restaSara(a,b){
+     return a - b
+
+
 //potencia de tomi
 function potencia(a){
     return a**2;
 }
 
+
 function suma (c, d){
     return c + d // funcion de seba
+
 }
 
 function suma(a, b) {
